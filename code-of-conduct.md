@@ -6,7 +6,7 @@ Biomakespace is building a multidisciplinary, volunteer-driven community laborat
 
 We strive to make our community open to everybody, regardless of scholarly or professional background, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, age, economic background, country of origin or employment, religion, and other characteristics. As we come from different backgrounds, it is important to be intentional about providing respectful, equitable spaces — both online and in person — for our community to come together and engage in constructive, respectful discourse.
 
-We particularly strive for equity. We are intentional about actively reducing the inequitable barriers that stand between science and those who create, use, and lean from it.
+We particularly strive for equity. We are intentional about actively reducing the inequitable barriers that stand between science and those who create, use, and learn from it.
 
 ## Scope
 
